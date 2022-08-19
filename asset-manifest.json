@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.91eb7d2b.css",
+    "main.js": "/reactlivewebsite/static/js/main.3f903e01.js",
+    "static/media/2.jfif": "/reactlivewebsite/static/media/2.bd9f087fe50a1c89011b.jfif",
+    "static/media/3.jfif": "/reactlivewebsite/static/media/3.bf12ac5a25d72fab137f.jfif",
+    "static/media/6.jfif": "/reactlivewebsite/static/media/6.60d0aa64f202417ba105.jfif",
+    "static/media/4.jfif": "/reactlivewebsite/static/media/4.307a11ac0cd03bb18299.jfif",
+    "static/media/1.jfif": "/reactlivewebsite/static/media/1.ca28d2bce3fc247aa5a0.jfif",
+    "static/media/5.jfif": "/reactlivewebsite/static/media/5.f97be6859a9b2c9ab6cb.jfif",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.91eb7d2b.css.map": "/reactlivewebsite/static/css/main.91eb7d2b.css.map",
+    "main.3f903e01.js.map": "/reactlivewebsite/static/js/main.3f903e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91eb7d2b.css",
+    "static/js/main.3f903e01.js"
+  ]
+}
